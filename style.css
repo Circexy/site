@@ -74,6 +74,10 @@
 
 
 // SITE
+.container {
+  width: 80%;
+}
+
 .title {
   text-align: center;
   font-family: cursive;
