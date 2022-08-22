@@ -71,3 +71,9 @@
   .show-md{display: none;}
   .show-l{display: none;}
 }
+
+
+// SITE
+.cell, .cell-3, .cell-6 {
+	border: 1px solid black;
+}
