@@ -78,4 +78,18 @@
   text-align: center;
   font-family: cursive;
   font-size: 26px;
+  padding-top: 30px;
 }
+
+.block {
+  padding: 5px 10px;
+  border: 1px solid black;
+}
+
+.block__left {
+}
+
+.block__right {
+}
+
+
