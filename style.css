@@ -92,4 +92,10 @@
 .block__right {
 }
 
+.block .cell ::before {
+  content: "/ ";
+}
 
+.block .cell ::after {
+  content: " /";
+}
