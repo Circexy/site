@@ -87,9 +87,11 @@
 }
 
 .block__left {
+  margin: 0 5px 0 0;
 }
 
 .block__right {
+  margin: 0 0 0 5px;
 }
 
 .block .cell ::before {
