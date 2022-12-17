@@ -8,3 +8,7 @@ body {
   background-color: var(--black);
   color: var(--white);
 }
+
+.container {
+    color:#FFF;
+}
